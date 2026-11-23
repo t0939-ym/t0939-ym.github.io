@@ -1,5 +1,5 @@
 // 部署 Apps Script 後，把「網頁應用程式」網址貼在引號裡（https://script.google.com/macros/s/.../exec）。
-export const API_URL = '';
+export const API_URL = 'https://script.google.com/macros/s/AKfycbxYdExVjRGfBa2OPkkI2BOJgHjJp939JvGps9_iB217JSRN-FXsXgcw6LWGhrahiGuQ/exec';
 
 // 瀏覽器裡存密碼與照片用的名稱。同一個網站上的每一份座位表要用不同的名稱，資料才不會互相混用。
 export const STORAGE_NAME = 'seating-chart';
